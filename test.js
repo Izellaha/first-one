@@ -8,13 +8,13 @@ function operateData(sql, param) {
             // 数据库所在的电脑的IP地址或者域名
             host: 'localhost',
             // 数据库的端口
-            port: 3307,
+            port: 3306,
             // 数据库名称
-            database: 'mydb',
+            database: 'an09',
             // 数据库账号
             user: 'root',
             // 数据库密码
-            password: 'admin123'
+            password: 'an0909'
         })
 
         // 3、执行连接操作
